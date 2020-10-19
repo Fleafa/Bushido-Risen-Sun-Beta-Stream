@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="b586-d588-5153-3d1d" name="Library-Feats" revision="2" battleScribeVersion="2.03" library="true" gameSystemId="62e4-ab79-1c4c-9ffe" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <sharedInfoGroups>
+    <infoGroup id="172c-d546-50a5-c020" name="Cobra Strike" hidden="false">
+      <profiles>
+        <profile id="9fd5-ec91-9e6f-24d7" name="Cobra Strike" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Lightning Reflexes until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="a6a5-0fe4-b751-0d1f" name="Lightning Reflexes" hidden="false" targetId="efd4-dc31-6523-9c79" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="4d47-155e-0ec4-a7fe" name="Asp Strike" hidden="false">
+      <profiles>
+        <profile id="ec9e-6c12-37de-cc7b" name="Asp Strike" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Lightning Reflexes until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="32cf-9916-c2f7-8fd9" name="Lightning Reflexes" hidden="false" targetId="efd4-dc31-6523-9c79" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="043d-73fe-cc06-b294" name="Darkness" hidden="false">
+      <profiles>
+        <profile id="4c90-9b03-c8f7-f254" name="Darkness" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">5</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Special</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Until the End Phase all Non-Soulless, Non-Sixth Sense, Non-Bakemono models may only draw LoS up to 4”.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="308c-6600-0817-c51e" name="Military Training" hidden="false">
+      <profiles>
+        <profile id="80b8-b799-d64a-b1f7" name="Military Training" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Special</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s Controller gains a Pass Token.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="7c80-7e85-fc45-381a" name="Do-Kote" hidden="false">
+      <profiles>
+        <profile id="62d2-f446-74e3-18de" name="Do-Kote" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Feint (1) until the end of the current Melee Exchange.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="b3a7-1dbc-79eb-04c5" name="Feint" hidden="false" targetId="38b0-4d97-3c4c-8d96" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="b3b7-f4cb-44c1-96c4" name="Mob Mentality" hidden="false">
+      <profiles>
+        <profile id="862f-7c59-5ebb-99bd" name="Mob Mentality" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">X</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">When a Bakemono model passes a Fear Test, it does not need to re-roll that test due to Cowardly. This Ki Feat may be used after the dice are rolled, as if it were granting a re-roll.
+X is equal to the number of times this feat has been used previously this turn.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="d324-83dc-936d-cb9b" name="Precision Strike" hidden="false">
+      <profiles>
+        <profile id="09cd-4169-7d10-95c1" name="Precision Strike" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s weapons gain Pierce (1) until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="7fc0-f963-e17a-0d7d" name="Pierce " hidden="false" targetId="39e4-14d7-5533-6e67" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="26dc-6aae-4be0-6e22" name="Shadow Walk" hidden="false">
+      <profiles>
+        <profile id="2ed9-ca35-df4d-25b2" name="Shadow Walk" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">If this model is out of LoS of all enemy models, place it within 3” of it&apos;s current location.
+This feat can only be used once per activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="443a-eb7b-fe65-ae7d" name="Summon from the Shadows" hidden="false">
+      <profiles>
+        <profile id="f889-8360-b8bb-a0c3" name="Summon From the Shadows" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">6</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Special</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Deploy a Horde Bakemono anywhere within 2” of this model.  If there are no Bakemono cards available with a free wound track this feat cannot be used.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="acb4-d601-61d6-539f" name="Sweep" hidden="false">
+      <profiles>
+        <profile id="0ef8-e703-9ff3-03ca" name="Sweep" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Sweep Attack (0) until the end of the current activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="7ec2-d9c9-517f-7e7b" name="Sweep Attack" hidden="false" targetId="bcbd-fab2-c8e2-6ff7" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="0005-2a79-5638-daa2" name="Umbrella Block" hidden="false">
+      <profiles>
+        <profile id="b8c6-bedd-6049-9f33" name="Umbrella Block" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Parry (1) until the end of the current Melee Exchange</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="98e6-2f4f-1781-16d4" name="Parry" hidden="false" targetId="c7c2-b36e-7952-c79b" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="3ace-c140-e71e-edb2" name="Lurker" hidden="false">
+      <profiles>
+        <profile id="0307-0252-1627-2fe1" name="Lurker" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Camouflage (2) until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="4232-d71c-d7e5-01d2" name="Camouflage" hidden="false" targetId="9010-4983-c98c-1751" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="3bd6-b4a8-04a6-cba8" name="Death Sentence" hidden="false">
+      <profiles>
+        <profile id="26cd-e40c-7f39-3e37" name="Death Sentence" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">4</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 9&quot;, Opposed Ki Test</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB, Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target Enemy model gains a Death Sentence Marker.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="c2c7-86e6-8fc5-e1f5" name="Lightning Reflexes" hidden="false" targetId="efd4-dc31-6523-9c79" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="8ffa-126c-60ed-f63f" name="Quick Reload" hidden="false">
+      <profiles>
+        <profile id="444a-6ce9-74c5-7df9" name="Quick Reload" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Remove any Reload Markers from this model.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="1318-27dd-bda2-861b" name="Grapple" hidden="false">
+      <profiles>
+        <profile id="25d8-9110-e71e-526e" name="Grapple" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Grapple Attack (0) until the end of the current activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="8bc7-ca1a-95c3-cf0e" name="Grapple Attack" hidden="false" targetId="1b9a-c71d-0a30-8d0d" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="7641-b66f-5fc4-0add" name="Cleave" hidden="false">
+      <profiles>
+        <profile id="69c2-32bd-cbc4-2c5f" name="Cleave" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Brutal (2) until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="e0b4-2153-403d-f5cd" name="Brutal" hidden="false" targetId="5d95-975e-a72c-25f3" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="eef4-5f7f-2771-a87c" name="Obey" hidden="false">
+      <profiles>
+        <profile id="b2b1-de50-a7cf-cf18" name="Obey" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 8&quot;, Opposed Ki Test</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target Enemy model gains one Control Marker.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="99a3-5be0-b64d-ab99" name="Inspiration" hidden="false">
+      <profiles>
+        <profile id="b62a-bbba-f17b-cca6" name="Inspiration" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target Friendly Faction model with a Rice Cost of less than this model gains +1 to its Melee Pool or Ranged Pool until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="d11a-2a0d-5984-5688" name="Rally" hidden="false">
+      <profiles>
+        <profile id="c02a-eb9b-c51b-248a" name="Rally" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse 8&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Remove the Frightened state from all Friendly models in the Pulse.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="052a-93d1-6acd-e5a6" name="Fend" hidden="false">
+      <profiles>
+        <profile id="153f-68e0-d741-9450" name="Fend" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Push Attack (0) until the end of the current activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="7565-7ad5-76d7-96e2" name="Push Attack" hidden="false" targetId="6c26-94ba-6b96-9e1b" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="8179-8061-a013-cbab" name="Mutation" hidden="false">
+      <profiles>
+        <profile id="8cd4-fd79-7f18-25c9" name="Mutation" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains one of the following until the End Phase:
+• +1 Melee Weapon Strength
+• Regenerate (2)
+• Armour (+1)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="b3ca-9431-f718-c832" name="Regenerate" hidden="false" targetId="74c4-617e-8405-3e46" type="rule"/>
+        <infoLink id="4c0d-e2ca-3f57-881b" name="Armour" hidden="false" targetId="8615-1c63-2242-5746" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="4b42-aa02-ccb3-cfd8" name="Hack" hidden="false">
+      <profiles>
+        <profile id="1fcf-8737-c04d-35a0" name="Hack" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s Melee Weapons gain Powerful Attack (0) until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="836e-aecf-3eba-067d" name="Powerful Attack" hidden="false" targetId="d56a-058d-95d9-5b60" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="7263-4efc-8b05-233b" name="Rend" hidden="false">
+      <profiles>
+        <profile id="214a-996c-b3ef-0c31" name="Rend" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Brutal (+1) until the current action is resolved.
+This model may only use this Feat once per Melee Exchange.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="fe5c-9666-e2d7-de72" name="Brutal" hidden="false" targetId="5d95-975e-a72c-25f3" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="3e68-7cbc-a068-6b04" name="Pathfinder" hidden="false">
+      <profiles>
+        <profile id="698e-335a-8623-e3e6" name="Pathfinder" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target Friendly model gains Lightfooted until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="d452-2990-1317-dc75" name="Lightfooted" hidden="false" targetId="57d2-cd57-07f9-addf" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="f743-deca-982b-607b" name="Detect" hidden="false">
+      <profiles>
+        <profile id="764a-378a-3301-97e4" name="Detect" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Choose a model in the Pulse. That model loses Camouflage until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="3107-4800-80b7-0a19" name="Lightfooted" hidden="false" targetId="57d2-cd57-07f9-addf" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="95d7-419b-47df-509b" name="Quagmire" hidden="false">
+      <profiles>
+        <profile id="9794-e6d9-04d4-1a0d" name="Quagmire" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">X</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Aura X&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">The Aura&apos;s area is considered [Difficult, Clear, Zero] terrain.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="67dc-8faf-a547-262a" name="Distraction" hidden="false">
+      <profiles>
+        <profile id="1acc-7000-5e5a-3f2f" name="Distraction" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target Enemy model must perform a Ki Challenge Test (6). If it fails you may change that model&apos;s Facing.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="0a04-6a93-fb5f-af61" name="Hail of Steel" hidden="false">
+      <profiles>
+        <profile id="3c61-fa52-7716-6a3f" name="Hail of Steel" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB, Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Rapid Fire (3) until the end of the current activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="c51f-9524-3dc0-c278" name="Rapid Fire" hidden="false" targetId="129c-7864-4cc1-f7bc" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="141e-70af-9701-981a" name="Chanyou" hidden="false">
+      <profiles>
+        <profile id="c24c-983a-46f0-ec99" name="Chanyou" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Remove all Berserk, Blind, Death Sentence, Diseased, Fire, Impetuous, Poison, Spirit Block, and Stunned Markers from this model.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="85bd-ac0d-842c-3097" name="Consume Soul" hidden="false">
+      <profiles>
+        <profile id="340c-3ba2-6f9a-b81e" name="Consume Soul" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse 3&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">When an enemy model is Killed within 3&quot; of this model, this model may Heal X Wounds, where X is equal to the removed model&apos;s Ki Statistic.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="c1e2-9229-c77a-e46e" name="Vitality" hidden="false">
+      <profiles>
+        <profile id="6395-e26b-71d9-c760" name="Vitality" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains an Activation Counter.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="b399-d8d0-47b1-00ee" name="Dirty Fighting" hidden="false">
+      <profiles>
+        <profile id="b900-737b-c1a0-4758" name="Dirty Fighting" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Enemy models cannot declare the use of Special Attacks or Defences in Melee Exchanges with this model until the current activation is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="235f-b0c6-371b-3625" name="Snare" hidden="false">
+      <profiles>
+        <profile id="5eec-2296-8ffb-6e89" name="Snare" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse 12&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">When an Enemy model without Cloudwalk or Intangible, and not in BtB with a Friendly model, declares a Move in the Pulse, that model must make a Move Challenge Test (X).
+X is 8 for models declaring a Run or Charge Action. X is 7 otherwise.
+If it failsm the model may not Move; if it was declaring an action, it loses an Activation Counter and its action is considered resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="2893-af1c-7a29-2411" name="Mountain Gale" hidden="false">
+      <profiles>
+        <profile id="12d2-9fdb-314a-54bc" name="Mountain Gale" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Special</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Untilthe End Phase, whilst this model is in play, models making Ranged Attacks suffer a +2 modifier to the Target Number of Ranged Attack Tests.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="f61c-2f62-4738-ad00" name="Wing Buffet" hidden="false">
+      <profiles>
+        <profile id="5fe8-18ab-2203-cbac" name="Wing Buffet" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse BtB</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">All models in the Pulse&apos;s area of effect must succeed in a Size Challenge Test (6) or be Moved D3&quot; directly away from this model.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="e566-060c-5bcc-1f3d" name="Dash" hidden="false">
+      <profiles>
+        <profile id="fcc5-4e41-9f95-67c3" name="Dash" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Agile and Evasive until the end of the current activation, and may also move 2&quot; at the end of its activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="e187-46c4-729c-3955" name="Agile" hidden="false" targetId="6a46-2f07-1725-11b2" type="rule"/>
+        <infoLink id="4a2f-4773-f96e-c048" name="Evasive" hidden="false" targetId="b0f8-d197-536b-c8fc" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="8f8d-557b-13c4-41bd" name="Blade Finesse" hidden="false">
+      <profiles>
+        <profile id="7577-1f24-9124-602a" name="Blade Finesse" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s weapons gain Pierce (2) until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="68dc-409c-0461-3baa" name="Pierce " hidden="false" targetId="39e4-14d7-5533-6e67" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="c7d6-3a2b-990c-8c79" name="Nomenclature" hidden="false">
+      <profiles>
+        <profile id="3554-7ac3-0be8-861c" name="Nomenclature" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 12&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target Enemy Disguised model.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="028a-ece3-4866-4aec" name="Spirit Guardian" hidden="false">
+      <profiles>
+        <profile id="6c25-8cc2-38c3-c550" name="Spirit Guardian" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse 3&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">No Movement, Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">When a Friendly model within the Pulse&apos;s area of effect is Targeted by an Enemy model&apos;s Ki Feat, change the Target to this model. Range is measured to the original Target.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="5c2a-b145-5f25-28d4" name="Raijin&apos;s Rage" hidden="false">
+      <profiles>
+        <profile id="9e43-478b-a0db-5564" name="Raijin&apos;s Rage" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Special</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">When this model makes a successful Ranged Attack, after that Attack is resolved but before its activation ends it may make an additional Ranged Attack against a model within 3&quot; of the last model Targeted.
+This Ranged Attack is considered in the Medium Range Band and ignores Range, LoS, and Camouflage.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="897f-3853-920a-86fb" name="Tenacious" hidden="false">
+      <profiles>
+        <profile id="c3dc-c9a4-1507-d75f" name="Tenacious" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Tough (+1) until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="637c-fee5-dbfe-f250" name="Tough" hidden="false" targetId="5613-a6cf-495a-229f" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="6c8e-7b6f-c53a-d878" name="Stagger" hidden="false">
+      <profiles>
+        <profile id="2a04-860e-172d-a740" name="Stagger" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Ranged Defence (1) and Sidestep Defence (0) until the end of the current activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="3919-93a9-e9b7-b29e" name="Perfect Defence" hidden="false">
+      <profiles>
+        <profile id="713a-c562-2786-d402" name="Perfect Defence" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Impenetrable Defence until the end of the current activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="3652-494e-ea8b-6670" name="Impenetrable Defence" hidden="false" targetId="6659-a776-d836-a2fb" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="a77d-e522-4365-1e68" name="Defensive Stroke" hidden="false">
+      <profiles>
+        <profile id="d3ce-ed14-1c25-4ecc" name="Defensive Stroke" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Parry (+1) until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="4d9e-4a4f-44f3-1109" name="Parry" hidden="false" targetId="c7c2-b36e-7952-c79b" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="f205-cecc-9b0b-d34c" name="Unassailable" hidden="false">
+      <profiles>
+        <profile id="f559-5c2d-6370-c339" name="Unassailable" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Indomitable (+2) until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="4882-e88b-febb-710f" name="Indomitable " hidden="false" targetId="3beb-6f28-e7c4-a236" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="5306-d7b8-8b05-cd80" name="Dead Eye" hidden="false">
+      <profiles>
+        <profile id="148c-7730-5403-5660" name="Dead Eye" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Until the end of the activation this model ignores Cover and Tiny modifiers to Ranged Attacks. The Opposing Player may not nominate a new Target for this Ranged Attack.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="5a1d-98c9-a926-c274" name="Mirage" hidden="false">
+      <profiles>
+        <profile id="33cb-c560-cbf8-382e" name="Mirage" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Special</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">During an Enemy model&apos;s activation in which it entered into BtB with, or Targets this model with a Ranged Attack or Ki Feat but before any Melee Exchange begins, make an Opposed Ki Test against that model.
+If successful, Place thsi model within 2&quot; of its current location. The Enemy model&apos;s activation is then considered resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="1c1e-18a9-546e-9c59" name="Apparition" hidden="false">
+      <profiles>
+        <profile id="ba0e-12ec-3ddb-a118" name="Apparition" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Activation</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Place this model within 2&quot; of its current location.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="70c6-78bc-19e1-0a81" name="Ten-Uchi" hidden="false">
+      <profiles>
+        <profile id="9d75-6505-1ba4-a46c" name="Ten-Uchi" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s weapons gain Unblockable (1) until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="afc8-315c-1473-6686" name="Unblockable" hidden="false" targetId="964b-62c9-4f94-bed7" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="b7d9-de45-36d9-334f" name="Vital Strike" hidden="false">
+      <profiles>
+        <profile id="651a-1b4b-fb2a-750d" name="Vital Strike" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s Melee Weapons gain Sharp (2) until the current activation is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="44f5-2597-f271-12ce" name="Sharp " hidden="false" targetId="6092-9fb5-5196-d1eb" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="ca04-4e29-81d2-f269" name="Prediction" hidden="false">
+      <profiles>
+        <profile id="779a-d24e-fed5-fe7a" name="Prediction" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Special</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s Controller&apos;s Opponent must declare which model they will choose as their next Activating model. If the model becomes ineligible before it is chosen as the Activating model then another model can be chosen without restriction.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="bea6-c926-30eb-17fc" name="Fog of Hesitation" hidden="false">
+      <profiles>
+        <profile id="b993-145e-ae1d-b3fa" name="Fog of Hesitation" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse 4&quot;, Opposed Ki Test</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">One model within the Pulse may not be chosen as the Activating model until all other models in its Warband are Exhausted.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="f386-e304-3104-3952" name="Veteran" hidden="false">
+      <profiles>
+        <profile id="f300-7c07-c8de-f77f" name="Veteran" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model does not suffer Melee dice penalties due to States until the current Melee Exchange is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="0fff-fe61-e22c-7ecf" name="Mountain Stance" hidden="false">
+      <profiles>
+        <profile id="13fc-184c-db6d-0d27" name="Mountain Stance" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Immovable until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="f23c-7969-3cea-a89a" name="Immovable" hidden="false" targetId="d34b-724f-6fc8-7420" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="6934-faff-0962-5ba6" name="Conditioning" hidden="false">
+      <profiles>
+        <profile id="9798-b2a5-d4a0-4bfd" name="Conditioning" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Resistance (2) until the end of the current activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="7e17-2162-8fa2-3b9b" name="Resistance " hidden="false" targetId="7e3f-9dc3-cacb-469f" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="a9dd-2f09-5bc9-3498" name="Mighty Blow" hidden="false">
+      <profiles>
+        <profile id="8788-8c96-6876-28f9" name="Mighty Blow" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Strong for the next Damage Roll.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="82ec-221d-1319-4bd3" name="Strong" hidden="false" targetId="00b5-3637-d48a-807e" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="26ae-7966-b7fb-85de" name="Gang" hidden="false">
+      <profiles>
+        <profile id="b572-b70a-6b36-d607" name="Gang" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Sctive</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Co-ordinated Attack [Ashigaru] until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="745e-0aa2-ea3b-af4e" name="Co-Ordinated Attack" hidden="false" targetId="2337-7bcc-c1f2-f2bd" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="4a19-1475-be08-ac1f" name="Circular Strike" hidden="false">
+      <profiles>
+        <profile id="4a4e-b718-b4f6-a284" name="Circular Strike" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB, Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Aware until the end of this activation, then makes a Ranged Attack against each model in Range and LoS, in any order. These Attacks are not affected by the penalty for having made Ranged Attacks previously in the turn.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="dc1b-580e-b506-3551" name="Aware" hidden="false" targetId="ff4a-6b14-09dd-2343" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="c1ad-58e2-8daa-1a5f" name="Cleansing" hidden="false">
+      <profiles>
+        <profile id="403f-c066-19fb-1e27" name="Cleansing" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">X</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Complex</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse X&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Remove up to X Control, Disease, Fire, Poison, or Spirit Block Markers from models with tha Pulse&apos;s area of effect. X is equal to the number of Ki Tokens spent.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="ad56-c912-51e6-e019" name="Warding Shōmyō" hidden="false">
+      <profiles>
+        <profile id="690f-1fd2-5ae3-ad5e" name="Warding Shōmyō" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Complex</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Aura 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">No Movement, Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Disturb Flow (1/6&quot;) until the End Phase and while within the Aura Enemy models cannot use Special Attacks or Defences.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="1c95-b891-22ba-efd5" name="Disturb Flow" hidden="false" targetId="9cb3-9163-6924-3e7a" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="ba0c-49f7-cee1-9585" name="Iaijutsu" hidden="false">
+      <profiles>
+        <profile id="83fb-9a2d-6eaa-1295" name="Iaijutsu" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s weapons gain Reach until the end of the current Melee Exchange.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="f432-0698-029a-d239" name="Reach" hidden="false" targetId="e28e-d5dd-a262-1101" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="a745-6798-36d5-7943" name="Total Loyalty" hidden="false">
+      <profiles>
+        <profile id="b260-f1d6-c244-a410" name="Total Loyalty" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Bodyguard [Samurai, Shisai](2&quot;) until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="c3e0-eb62-55fd-bc84" name="Bodyguard" hidden="false" targetId="0286-6d10-a236-e0c3" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="1fc9-1c80-6504-6e24" name="Idolise" hidden="false">
+      <profiles>
+        <profile id="46bb-cf16-bf94-71c5" name="Idolise" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target Friendly Faction model with a Rice Cost of more than this model gains +1 to its Melee Pool or Ranged Pool until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="d6fc-72fb-d59f-0fcf" name="Alert" hidden="false">
+      <profiles>
+        <profile id="83c9-cd25-7733-9ebe" name="Alert" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target model gains Aware and Ranged Defence (1) until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="be37-11a7-82de-2935" name="Aware" hidden="false" targetId="ff4a-6b14-09dd-2343" type="rule"/>
+        <infoLink id="00fe-0628-dcbe-fb9d" name="Ranged Defence " hidden="false" targetId="9b8d-9ca9-e25d-3988" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="268e-7689-3189-031f" name="Dominate" hidden="false">
+      <profiles>
+        <profile id="169a-1d8c-6f51-ae2f" name="Dominate" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target non-Exhausted Enemy model must be chosen to activate next, ignoring Impetuous Markers. The Opposing Player may not declare the use of a Pass Token next activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="706a-8a6e-58a8-aec7" name="Chudan" hidden="false">
+      <profiles>
+        <profile id="99b4-482a-0e6f-67e1" name="Chudan" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s Special Attacks and Defences are reduced to (0) cost until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="f11e-8606-1e9d-86c9" name="Forestall" hidden="false">
+      <profiles>
+        <profile id="6f86-098d-6404-e622" name="Forestall" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Game</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target Enemy model may not declare Scenario Actions this turn.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="d575-99a4-4bc9-4af8" name="Vicious Strike" hidden="false">
+      <profiles>
+        <profile id="304c-9ecd-f88e-6051" name="Vicious Strike" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s Melee Weapons gain Sharp (+1) until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="32b0-9b9c-c5c5-7418" name="Sharp " hidden="false" targetId="6092-9fb5-5196-d1eb" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="4d16-a010-02e2-03f4" name="Precision Shot" hidden="false">
+      <profiles>
+        <profile id="6da8-7367-78b5-9648" name="Precision Shot" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s Ranged Weapons gain Pierce (1) until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="31e9-9a66-b27a-872d" name="Pierce " hidden="false" targetId="39e4-14d7-5533-6e67" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="80b9-ab3d-e2b7-b6f0" name="Binding Roots" hidden="false">
+      <profiles>
+        <profile id="2c82-801d-9a89-fdde" name="Binding Roots" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">X+1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse 3&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Choose up to X Enemy models within the Pulse&apos;s area of effect. Each model chosen becomes Immobilised.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="1043-4026-45a3-c9c0" name="Savage Beating" hidden="false">
+      <profiles>
+        <profile id="447d-a689-bfd4-bee3" name="Savage Beating" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Combo Attack (0) until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="0a3f-2fef-0dbc-fc33" name="Combo Attack " hidden="false" targetId="78ab-6a94-be24-8f74" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="41ba-9b65-a711-66e6" name="War Cry" hidden="false">
+      <profiles>
+        <profile id="5982-bb1a-695c-3e5b" name="War Cry" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Fear (6) until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="a9bd-b87a-9370-9fce" name="Fear" hidden="false" targetId="3586-4583-7f10-1f31" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="f727-7c31-78e0-2384" name="Tornado" hidden="false">
+      <profiles>
+        <profile id="5f34-2bb7-a355-3337" name="Tornado" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">When a Friendly model within 2” is the Target of a failed Ranged Attack, immediately make a Ranged Attack.
+The Range Bands, Strength bonus and any applicable traits or unique effects on the model which failed the Ranged Attack are used instead of any such traits or effects on this model.
+This model ignores the effects of Ammo and Reload traits while resolving this Ki Feat.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="b8c0-1f29-3c48-4b3a" name="Batter" hidden="false">
+      <profiles>
+        <profile id="0259-b1d2-b3ed-fce7" name="Batter" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Until the End Phase, models Wounded by this model&apos;s Melee Attack gain a Stun Marker.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="a564-547f-ddc6-267d" name="Sick Em!" hidden="false">
+      <profiles>
+        <profile id="e1ab-3af3-c15a-ec00" name="Sick Em!" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Special 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">When Friendly Animal models Target or participate in a Melee Exchange with chosen Enemy model, they gain Bravery and Co-ordinated Attack [Friendly] until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="ca16-d173-676c-88da" name="Crushing Blow" hidden="false">
+      <profiles>
+        <profile id="b616-699d-24a0-8cab" name="Crushing Blow" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model’s Melee Weapons gain Brutal (+1) and Pierce (2) until the end of the current activation. This Ki Feat can only be used once per activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="40b5-e8ec-32a1-dca2" name="Brutal" hidden="false" targetId="5d95-975e-a72c-25f3" type="rule"/>
+        <infoLink id="553b-877e-5f59-96cd" name="Pierce " hidden="false" targetId="39e4-14d7-5533-6e67" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="6989-034d-5514-74e7" name="Curse Fate" hidden="false">
+      <profiles>
+        <profile id="8df5-8294-a083-1192" name="Curse Fate" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 12&quot; Opposed Ki</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB, Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Roll a number of D6 equal to 1 plus the SL of the Opposed Ki Test. Reroll 1’s and dice with the same value.
+Until the End Phase the Target model considers any dice it rolls that match those rolled for this feat to be a value of 1.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="4467-f320-bdc0-6530" name="Chain Attack" hidden="false">
+      <profiles>
+        <profile id="e59f-2d55-9ffd-d97d" name="Chain Attack" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Combo Attack (0) until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="85f2-cba6-685b-ca7b" name="Combo Attack " hidden="false" targetId="78ab-6a94-be24-8f74" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="0783-a6f2-be72-025d" name="Spur On" hidden="false">
+      <profiles>
+        <profile id="6848-fe01-9a83-fa00" name="Spur On" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 3&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Until the End Phase Target Friendly Animal model gains Rise (4) and loses the Aloof trait.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="b41a-807f-1590-1147" name="Rise" hidden="false" targetId="f774-9156-2996-f5c6" type="rule"/>
+        <infoLink id="ea37-6dd4-984e-c58b" name="Aloof" hidden="false" targetId="5101-70fc-eca4-d99b" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="a5f6-a900-eded-8f6f" name="Loyalty" hidden="false">
+      <profiles>
+        <profile id="7bfd-04f5-81b0-cb7c" name="Loyalty" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Bodyguard [Friendly](1&quot;) until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="9c0d-aca9-6728-7b21" name="Bodyguard" hidden="false" targetId="0286-6d10-a236-e0c3" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="eb5f-a823-c676-7fa1" name="Flow Like Water" hidden="false">
+      <profiles>
+        <profile id="f7fd-88e2-2de1-e17a" name="Flow Like Water" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Dodge(1) and Counterstrike Defence(0) until the end of the current Melee Exchange.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="112c-085f-9161-4158" name="Dodge " hidden="false" targetId="14d5-d459-5d8a-c73e" type="rule"/>
+        <infoLink id="277d-40fd-3d18-54f9" name="Counterstrike Defence " hidden="false" targetId="136e-4c77-dc59-4c6e" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="4759-f742-375f-6fea" name="Rain of Blows" hidden="false">
+      <profiles>
+        <profile id="e474-b634-511f-afb6" name="Rain of Blows" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Combo Attack (0) and Lightning Reflexes until the end of the current Melee Exchange.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="7826-7f38-dfdc-ef67" name="Combo Attack " hidden="false" targetId="78ab-6a94-be24-8f74" type="rule"/>
+        <infoLink id="b8a7-c432-fee2-2300" name="Lightning Reflexes" hidden="false" targetId="efd4-dc31-6523-9c79" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="77c4-e0c7-ae38-95ee" name="Battle Stations" hidden="false">
+      <profiles>
+        <profile id="1177-399a-9d0e-1f2a" name="Battle Stations" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">No Movement, Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Order [Ashigaru](3/8&quot;) until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="43c0-4aa9-8953-69af" name="Order" hidden="false" targetId="ed40-ed42-2208-1ea0" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="69fb-80cc-ba4a-c9c3" name="Vault" hidden="false">
+      <profiles>
+        <profile id="d426-c1db-8786-fdd3" name="Vault" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Cloudwalk until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="4f75-0ba9-1c26-8eb4" name="Cloudwalk" hidden="false" targetId="538c-1266-626b-fcc9" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="cd8a-6cd0-bb5b-6017" name="Strafe" hidden="false">
+      <profiles>
+        <profile id="9535-406c-ea4e-80a0" name="Strafe" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Rapid Fire (2) until the until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="da65-a2d2-e25b-8df1" name="Rapid Fire" hidden="false" targetId="129c-7864-4cc1-f7bc" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="2182-8708-567e-2218" name="Far Throw" hidden="false">
+      <profiles>
+        <profile id="84b6-7f7d-8e19-1492" name="Far Throw" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model’s Ranged Weapon Range Bands become 4/8/12 until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="e2aa-ac43-c7b6-c459" name="Rampage" hidden="false">
+      <profiles>
+        <profile id="92f0-4a2e-199c-1e02" name="Rampage" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Agile and Indomitable (1) until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="d155-0981-1e6b-ccc4" name="Agile" hidden="false" targetId="6a46-2f07-1725-11b2" type="rule"/>
+        <infoLink id="7e5f-9ddd-d7ba-3157" name="Indomitable " hidden="false" targetId="3beb-6f28-e7c4-a236" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="a000-7122-6c65-252f" name="Hyper Regeneration" hidden="false">
+      <profiles>
+        <profile id="92db-bb19-3a09-5155" name="Hyper Regeneration" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Regenerate (4) until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="6aa6-8452-e222-6f53" name="Regenerate" hidden="false" targetId="74c4-617e-8405-3e46" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="ad39-297a-dc9e-c06a" name="Thrash" hidden="false">
+      <profiles>
+        <profile id="45d1-d56e-5f45-8583" name="Thrash" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6"/>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Models in a Melee Exchange with this model lose the Dodge trait until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="5bbb-ceeb-3466-685a" name="Psychic Drain" hidden="false">
+      <profiles>
+        <profile id="9075-7bda-1c32-bb8a" name="Psychic Drain" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 8&quot;, Opposed Ki Test</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB, Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Transfer up to 3 Ki Tokens from the Target Enemy model&apos;s profile card to this card.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="36cd-8ef5-adff-2718" name="Psychic Venom" hidden="false">
+      <profiles>
+        <profile id="8510-4f06-ec5f-ac53" name="Psychic Venom" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">X+1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 8&quot;, Opposed Ki Test</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target Enemy model gains X Poison (2) Markers. X may not be greater than 3.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="fb1c-5ab1-36b3-4d52" name="Future Sight" hidden="false">
+      <profiles>
+        <profile id="c801-921f-f7f7-dc5e" name="Future Sight" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Tactician (1) until the End Phase and Enemy models lose Tactician until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="1b68-bc1f-1090-0ff8" name="Tactician" hidden="false" targetId="14dd-c67a-5240-e647" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="22f0-e428-660f-947c" name="Athleticism" hidden="false">
+      <profiles>
+        <profile id="fc6d-c1c8-b3ca-5714" name="Athleticism" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personel</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Jump Up and Dodge (1) until the current activation is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="e367-565c-d4cc-ee35" name="Jump Up" hidden="false" targetId="1575-e12f-4ca3-c557" type="rule"/>
+        <infoLink id="15a3-c8a3-5d2b-45a8" name="Dodge " hidden="false" targetId="14d5-d459-5d8a-c73e" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="7d60-e40a-40f3-2424" name="Acrobatics" hidden="false">
+      <profiles>
+        <profile id="a2b6-1a9c-f41b-f235" name="Acrobatics" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Agil, Defensive, and Dodge (+1) until the end of this activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="f394-5edb-414f-469e" name="Dodge " hidden="false" targetId="14d5-d459-5d8a-c73e" type="rule"/>
+        <infoLink id="d8a5-effc-6025-95ba" name="Defensive" hidden="false" targetId="c6e1-0904-b78f-7933" type="rule"/>
+        <infoLink id="0cf5-8c3b-476c-e4d1" name="Agile" hidden="false" targetId="6a46-2f07-1725-11b2" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="c8a6-5c3e-38ad-c621" name="Thresher" hidden="false">
+      <profiles>
+        <profile id="49ca-febf-3b5c-b602" name="Thresher" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Indomitable (1) and Split Attack until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="27b6-fbc3-caf2-e112" name="Indomitable " hidden="false" targetId="3beb-6f28-e7c4-a236" type="rule"/>
+        <infoLink id="d5d2-0885-481e-a96b" name="Split Attack" hidden="false" targetId="92d0-d4fe-e58e-7535" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="2abd-edf5-436d-3d56" name="Overrule" hidden="false">
+      <profiles>
+        <profile id="4905-bb60-1ab2-3ef8" name="Overrule" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Once per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target non-Exhausted Enemy model gains an Impetuous Marker.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="b7ac-c02d-fe10-2c6c" name="Escape" hidden="false">
+      <profiles>
+        <profile id="bf50-3ded-6cf7-e32b" name="Escape" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">When this model Kills an Enemy model, once the action is complete, this model may make a Walk.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="5e54-1ebb-abd6-5178" name="Spirit Ward" hidden="false">
+      <profiles>
+        <profile id="23b9-7ab7-a3fd-9584" name="Spirit Ward" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Complex</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Aura 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">No Movement, Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">While within this Aura, Kami and Asura models cannot move closer to this model.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="4b8e-1856-9c69-7d5c" name="Healing Touch" hidden="false">
+      <profiles>
+        <profile id="c757-01bc-f2b6-d749" name="Healing Touch" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">X</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target BtB</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target Friendly model in BtB Heals X wounds.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="59fa-1235-f4e2-e41a" name="Heed My Word" hidden="false">
+      <profiles>
+        <profile id="e03a-eeba-612b-8130" name="Heed My Word" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Perform a Walk with the Target model. If the Target model is an Enemy, you must first succeed in an Opposed Ki Test with the Target model.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="789f-9fb4-51d2-84fc" name="Lure" hidden="false">
+      <profiles>
+        <profile id="a5d0-46a1-76b2-5781" name="Lure" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot; Opposed Ki</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target model not in BtB with a Friendly model gains an Impetuous Marker, must declare a Walk Action as its next activation, and must move directly towards this model with its full move changing its facing so that this model is in LoS. If unable to perform a Walk Action, it may activate without restriction.
+This effect expires in the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="d40d-ee12-12cc-1e78" name="Sneak" hidden="false">
+      <profiles>
+        <profile id="54cb-b462-7e29-89bb" name="Sneak" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Evasive and Lightfooted until the End Phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="366c-5d6c-e430-d8a6" name="Hypnotic Gaze" hidden="false">
+      <profiles>
+        <profile id="dfff-5ef6-5449-1b5d" name="Hypnotic Gaze" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 12&quot;, Opposed Ki Test</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB, Once Per Turn</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target enemy model loses an Activation Counter and gains one Stunned Marker.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="e319-a566-437a-751d" name="Inferno" hidden="false">
+      <profiles>
+        <profile id="7708-f82b-0933-ee0d" name="Inferno" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse 2&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">All other models within the Pulse’s area of effect gain a Fire (2) Marker.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="95aa-989c-23df-bf00" name="Smite" hidden="false">
+      <profiles>
+        <profile id="a4fc-ce57-3085-ccd4" name="Smite" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model&apos;s Melee Weapons gain Slam Attack (0) until the current activation is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="7184-7631-222b-8c1e" name="Slam Attack" hidden="false" targetId="5d05-b0ce-d7db-9def" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="efdd-d3c0-8b9e-eff0" name="Yoko-Men" hidden="false">
+      <profiles>
+        <profile id="f41c-d222-b63b-1b80" name="Yoko-Men" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Models involved in a Melee Exchange with this model lose the Dodge trait until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="0686-8f68-873c-61d5" name="Martyr" hidden="false">
+      <profiles>
+        <profile id="e7dd-3004-c30a-3d88" name="Martyr" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">X+1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse X&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Move X non-Prone, non-Held, non-Reloading State Markers from a Friendly model to this model.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="9b3f-dcf3-388c-dc19" name="Practised Manoeuvres" hidden="false">
+      <profiles>
+        <profile id="11a0-90a9-e649-90ca" name="Practised Manoeuvres" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">When applying Melee Assist penalties for a Melee Exchange involving Lone Swordsmen, this model inflicts -2 dice rather than -1 until the current Melee Exchange is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="7e35-ea5e-7551-c096" name="Fire Spin" hidden="false">
+      <profiles>
+        <profile id="700a-d424-b593-cba1" name="Fire Spin" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Complex</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">No Movement</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Move this model 4&quot; in a straight line in any direction. Any model within 2&quot; of this model at any point in its path gains a Fire (2) Marker.
+Until the End Phase, whilst this model is in play, models making Ranged Attacks suffer a +1 modifier to the Challenge Number of Ranged Attack Tests.
+In the next Starting Phase, the player who wins the Tactical Test moves this model 4&quot; in a straight line in any direction, then the other player moves him 2&quot; in a straight line in any direction. Any model within 2&quot; of this model at any point in its path gains a Fire (2) Marker then this effect ends.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="fb35-cff6-2776-face" name="Fire" hidden="false" targetId="2422-40b7-254f-f6f1" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="e9e0-af60-9994-96d3" name="Stand Behind Me!" hidden="false">
+      <profiles>
+        <profile id="8209-5fd4-3f83-4e11" name="Stand Behind Me!" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Instant</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model grants Cover as if it were terrain until the end of the current activation.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="211e-2375-4f18-2cba" name="Headshot" hidden="false">
+      <profiles>
+        <profile id="f0a3-1472-ceb5-d469" name="Headshot" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Target model&apos;s Ranged Weapons gain Critical Attack (0) against Enemy Kairai models.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="bdf7-1904-6299-934a" name="Critical Attack" hidden="false" targetId="7ec7-56ae-79e3-423e" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="4db2-e864-5470-e5cb" name="Passing Strike" hidden="false">
+      <profiles>
+        <profile id="2f68-ecff-4226-254c" name="Passing Strike" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">1</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">If this model moved into Melee this Activation, it may make a normal Damage Roll when resolving a successful Sidestep Attack.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="8fcb-74be-c338-21ed" name="Tsukkakaru" hidden="false">
+      <profiles>
+        <profile id="1545-1fc5-555e-c079" name="Tsukkakaru" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">3</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Active</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Personal</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5"/>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model gains Banzai! until the current action is resolved.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="824d-23ab-0a86-ed4b" name="Banzai!" hidden="false" targetId="99b0-606c-1640-3d93" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="e4a9-a9e9-3991-52ab" name="Hageshiku Furu" hidden="false">
+      <profiles>
+        <profile id="aea4-91dd-1779-e9d5" name="Hageshiku Furu" hidden="false" typeId="6371-e768-6bfa-fd6a" typeName="Ki Feat (Ranged Weapon)">
+          <characteristics>
+            <characteristic name="Cost" typeId="54ca-6f96-9414-922d">3</characteristic>
+            <characteristic name="Timing" typeId="ae42-2385-926b-5832">Instant</characteristic>
+            <characteristic name="Subject" typeId="ce1f-d396-2925-d8f2">Pulse 4&quot;</characteristic>
+            <characteristic name="Limitation" typeId="ec4e-c810-ec03-911e">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="23c3-f856-2f53-8b40">This model gains Aware and the following Ranged Weapon until this feat is resolved.
+This model then makes a Ranged Attack against each model in the Pulse and LoS, in any order. These attacks are not affected by the penalty for having made Ranged Attacks previously in the turn.</characteristic>
+            <characteristic name="Ranged Weapon Strength" typeId="d884-fd57-01ee-d00f">+2</characteristic>
+            <characteristic name="Range Bands" typeId="6829-9f3d-cf99-2fa0">-/-/4</characteristic>
+            <characteristic name="Traits" typeId="07b8-50a5-db92-011c">Brutal(1)</characteristic>
+            <characteristic name="Specials" typeId="ff17-06fe-f0b0-9031"/>
+            <characteristic name="Unique Effects" typeId="2266-f1e7-8a6d-fd0f"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="fe5a-affa-8c46-a669" name="Aware" hidden="false" targetId="ff4a-6b14-09dd-2343" type="rule"/>
+      </infoLinks>
+    </infoGroup>
+    <infoGroup id="d7e4-efaf-4188-d483" name="Spirit Absolution" hidden="false">
+      <profiles>
+        <profile id="095e-1722-a3e5-bd66" name="Spirit Absolution" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Target 6&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">This model loses Soulless, Slow, Tough, and Rise. This effect expires in the End Phase.
+Target model not in BtB with a Friendly model gains an Impetous Marker, must declare a Walk action as its next activation, and must move directly towards this model with its full Move Statistic, changing facing so that this model is in LoS. If unable to perform a Walk action, it may activate without restriction.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+    <infoGroup id="cfb1-aa26-7f9c-a9d9" name="Tsunami" hidden="false">
+      <profiles>
+        <profile id="ec9b-ac14-b069-4cf9" name="Tsunami" hidden="false" typeId="993a-e62a-7922-0ccb" typeName="Ki Feat">
+          <characteristics>
+            <characteristic name="Cost" typeId="a126-54d9-0a27-f4b6">2</characteristic>
+            <characteristic name="Timing" typeId="f8a8-8a3e-ef58-4c61">Simple</characteristic>
+            <characteristic name="Subject" typeId="4ac8-2bb1-0c84-f088">Pulse 3&quot;</characteristic>
+            <characteristic name="Limitation" typeId="6fc9-5d13-2687-b2a5">No Movement, Not in BtB</characteristic>
+            <characteristic name="Description" typeId="f804-b969-00da-2123">Enemy models in the Pulse must pass a Size Challenge Test (7), or be moved directly away from this Riku until they hit an Impassable terrain feature, a model which passes its Size Challenge Test or until they have moved 8&quot;.
+If another model is contacted by models being moved by this feat, it must make a Size Challenge (6) Test or be pushed along with the original model.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+    </infoGroup>
+  </sharedInfoGroups>
+  <catalogueLinks>
+    <catalogueLink id="66fe-29c4-5307-bad4" name="Library-Traits" targetId="8335-cda4-b21f-cef1" type="catalogue" importRootEntries="true"/>
+    <catalogueLink id="4d67-cd01-2f57-711f" name="Library-SpecialAbilities" targetId="2ca6-d249-0ab5-53c7" type="catalogue" importRootEntries="true"/>
+  </catalogueLinks>
+</catalogue>
